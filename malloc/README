@@ -1,0 +1,1 @@
+Nessa versão utilizamos alocação dinamica para registrar os pedidos/clientes, a cada 5 pedidos/clientes são alocados 5 espaços na memória.
