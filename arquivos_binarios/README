@@ -1,0 +1,7 @@
+Nessa versão, utilizamos manipulação de arquivos binarios, criamos um arquivo para clientes,
+um para pedidos e um para o estoque.
+
+Quando o programa inicia passamos todas as informações dos arquivos para o programa, e, para 
+evitar grandes perdas, sempre que uma funcionalidade principal é completada (cadastrar/verificar
+cliente, cadastrar/alterar/verificar pedido, cadastrar/alterar produto no estoque), os novos
+dados são passados para os arquivos.
